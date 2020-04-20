@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ImportResource;
 public class Myspringboot001Application {
 
 	public static void main(String[] args) {
-		System.out.println("zs--aaa");
+		System.out.println("ls---bbb");
 		SpringApplication.run(Myspringboot001Application.class, args);
 	}
 
